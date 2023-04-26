@@ -31,7 +31,7 @@
   "scripts": {
     "build-assets": "bower install && grunt build",
     "build": "react-scripts build",
-    "start": "nodemon backend/server.js"
+    "start": "node backend/server.js"
   },
   "author": "Arvind",
   "license": "ISC",
